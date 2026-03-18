@@ -3,8 +3,8 @@ if ($PSVersionTable.PSVersion.Major -lt 5 -or ($PSVersionTable.PSVersion.Major -
 }
 
 # ── Configuration ────────────────────────────────────────────────────────────
-$GitName = "Your Name"
-$GitEmail = "your.email@example.com"
+$GitName = "DongGyu Song"
+$GitEmail = "sdk0903@skku.edu"
 # ─────────────────────────────────────────────────────────────────────────────
 
 $ErrorActionPreference = "Stop"
